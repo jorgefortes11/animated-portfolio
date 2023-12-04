@@ -13,7 +13,7 @@
 }
 
 body {
-  background-image: url('./image/bgi.jpg'); /* Caminho para sua imagem de fundo */
+  background-image: url('./bgi.jpg'); /* Caminho para sua imagem de fundo */
   background-size: cover; /* Ajusta o tamanho da imagem para cobrir todo o elemento */
   background-repeat: no-repeat; /* Impede que a imagem de fundo seja repetida */
   background-position: center center; /* Centraliza a imagem no elemento */
